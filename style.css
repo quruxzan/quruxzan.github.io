@@ -243,6 +243,12 @@ background-color: #ff004f;
   font-family: 'Times New Roman', Times, serif;
   color: white;
   font-size: 30px;
+  text-decoration: none;
+  border: 2px solid coral;
+}
+ a{
+  color: white;
+  font-size: 22px;
 }
 .projects{
   gap: 40px;
