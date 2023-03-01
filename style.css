@@ -246,14 +246,9 @@ background-color: #ff004f;
   text-decoration: none;
   border: 2px solid coral;
 }
-button{
-padding-top: 20px;
-  background-color: #ff004f;
-  color: white;
-  margin-left: 90px;
-  justify-content: center;
-    font-size: 70px;
-  width: 90px;
+.mother a{
+  color: #ff004f;
+  font-size: 40px;
 }
 
 .projects{
