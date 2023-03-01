@@ -247,18 +247,9 @@ background-color: #ff004f;
   border: 2px solid coral;
 }
 .mother a{
-  
-  border: 1px solid  rgb(185, 16, 30);
-  margin-top: 40px;
-   border-radius: 35px;
-   background-color: #ff004f;
-   padding: 16px 35px;
-   font-size: 14px;
-   letter-spacing:2px;
-   position: absolute;
-   color: white;
- 
- }
+  color: #ff004f;
+  font-size: 40px;
+}
 
 .projects{
   gap: 40px;
