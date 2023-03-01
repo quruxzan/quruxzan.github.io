@@ -246,14 +246,10 @@ background-color: #ff004f;
   text-decoration: none;
   border: 2px solid coral;
 }
-button{
-  /* margin-top: 20px; */
-  background-color: #ff004f;
-  /* color: white; */
-  margin-left: 90px;
-  justify-content: center;
-    font-size: 70px;
-  width: 90px;
+.mother a{
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 60px;
 }
 
 .projects{
