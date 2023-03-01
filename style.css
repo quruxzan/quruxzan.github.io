@@ -247,7 +247,7 @@ background-color: #ff004f;
   border: 2px solid coral;
 }
 button{
-padding-top: 20px;
+  margin-top: 20px;
   background-color: #ff004f;
   color: white;
   margin-left: 90px;
